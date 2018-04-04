@@ -5,7 +5,7 @@
 ```
 $ gem install slim html2slim
 $ yarn global add bower yo grunt-cli generator-reveal gulp
-$ git clone git@github.com:zacky1972/research-introduction-2018.git
+$ git clone git@github.com:zackylab/research-introduction-2018.git
 $ cd research-introduction-2018
 $ yarn install
 $ bower install
@@ -25,7 +25,7 @@ $ cd research-introduction-2018
 $ grunt deploy
 ```
 
-[このページを開きます](https://zacky1972.github.io/research-introduction-2018/)
+[このページを開きます](https://zackylab.github.io/research-introduction-2018/)
 
 ## スライドの追加
 
